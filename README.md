@@ -146,7 +146,7 @@ Galaxy is a cross-chain consensus mechanism based on Store Groups, Shamir polyno
 
 The relay process in Kaon's cross-chain messaging does not utilize oracles, as the responsible nodes are legitimate parts of another chain. These nodes bear the responsibility for the process, and they manage fees and rewards within the dPoS and Galaxy consensus.
 
-![Banner!](assets/oracle-less.png)
+![Banner!](assets/oracle-less.jpg)
 
 This process leverages threshold signatures from the current round, where consensus is achieved when the transaction is signed by the required number of actors.
 
