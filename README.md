@@ -287,7 +287,7 @@ Although the UTXO model is not supported on EVM chains, the transformation proce
 
 ## Restore Mirror BTC From Wrap Process
 
-![Banner!](assets/erc-restore-mbtc)
+![Banner!](assets/erc-restore-mbtc.jpg)
 
 1. The user initiates the process by sending the ERC20 tokens (which represent the wrapped Mirrored BTC) to a designated smart contract on the Kaon chain.
 2. The smart contract recognizes the transaction and identifies the corresponding voucher created during the initial wrapping process. This voucher contains the necessary details to facilitate the restoration.
